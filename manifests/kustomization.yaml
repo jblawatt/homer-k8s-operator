@@ -1,0 +1,6 @@
+
+resources:
+  - ./homer-operator.clusterrole.yaml
+  - ./homer-operator.customresourcedefinition.yaml
+
+

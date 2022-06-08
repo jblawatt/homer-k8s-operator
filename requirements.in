@@ -1,0 +1,8 @@
+kopf
+kubernetes
+pyyaml
+
+# -- debug only
+black
+ipdb
+ipython

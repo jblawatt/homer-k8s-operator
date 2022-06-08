@@ -1,0 +1,6 @@
+apiVersion: homer-operator.j3nko.de/v1
+kind: HomerConfig
+metadata:
+  name: homer-root-config-zwei
+spec:
+  service: []
